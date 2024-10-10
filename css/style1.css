@@ -1,0 +1,13 @@
+.card-body{
+ border: solid 10px;
+}
+
+
+@media (max-width: 767px) {
+  .card-body2 img {
+  vertical-align: middle;
+  border-style: none;
+  width: 220px;
+  margin-left: -10px;
+  }
+}
